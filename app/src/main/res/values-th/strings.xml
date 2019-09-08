@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Midterm 07590653</string>
+    <string name="Bln_name">ลงชื่อเข้าใช้</string>
+    <string name="Bpf1_name">เพิ่มในสตอรี่</string>
+    <string name="Bpf2_name">ดูในมุมมองของ</string>
+    <string name="Bpf3_name">แก้ไขโปรไฟล์</string>
+    <string name="Bpf4_name">เพิ่มเติม</string>
+    <string name="Dtpf1_name">เคยศึกษาที่</string>
+    <string name="Dtpf2_name">อาศัยอยู่ที่</string>
+    <string name="Dtpf3_name">จาก</string>
+    <string name="Ln_name">ลงชื่อเข้าใช้เฟสบุีค</string>
+    <string name="Login_failed">ชื่อผู้ใช้งานหรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="pass_name">รหัสผ่าน</string>
+    <string name="user_name">ชื่อผู้ใช้</string>
+    <string name="Login_susccss">ยินดีต้อนรับ</string>
+</resources>
